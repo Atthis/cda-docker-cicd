@@ -1,2 +1,2 @@
-FROM node:20
+FROM php:8.3-apache
 COPY . .
