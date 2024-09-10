@@ -1,2 +1,2 @@
-FORM node:20
+FROM node:20
 COPY . .
